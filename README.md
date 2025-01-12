@@ -5,7 +5,7 @@ Welcome to the **Telecom Customer Churn Prediction** project! This repository co
 ---
 
 ## 📜 Table of Contents
-# Importing Libraries
+### Importing Libraries
 # Loading Dataset
 # Exploratory Data Analysis
 # Outliers using IQR method
