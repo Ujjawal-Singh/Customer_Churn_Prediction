@@ -5,16 +5,19 @@ Welcome to the **Telecom Customer Churn Prediction** project! This repository co
 ---
 
 ## 📜 Table of Contents
-- [Overview](#overview)  
-- [Features](#features)  
-- [Technologies Used](#technologies-used)  
-- [Dataset](#dataset)  
-- [Installation](#installation)  
-- [Workflow](#workflow)  
-- [Results](#results)  
-- [Future Scope](#future-scope)  
-- [Contributing](#contributing)  
-- [License](#license)  
+# Importing Libraries
+# Loading Dataset
+# Exploratory Data Analysis
+# Outliers using IQR method
+# Cleaning and Transforming Data
+# One-hot Encoding
+# Rearranging Columns
+# Feature Scaling
+# Feature Selection
+# Prediction using Logistic Regression
+# Prediction using Support Vector Classifier
+# Prediction using Decision Tree Classifier
+# Prediction using KNN Classifier
 
 ---
 
