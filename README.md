@@ -42,14 +42,11 @@ Customer churn refers to customers ending their association with a business. For
   - Decision Trees  
   - Random Forest  
   - Support Vector Machines (SVM)  
-  - Gradient Boosting (XGBoost, LightGBM)  
+  - KNN Classifier 
 
 - **Model Evaluation**:  
   - Key metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC.  
-  - Confusion matrix and feature importance visualization.  
-
-- **Actionable Insights**:  
-  Identify high-risk customers and provide recommendations for retention.  
+  - Confusion matrix and feature importance visualization.   
 
 ---
 
@@ -57,8 +54,7 @@ Customer churn refers to customers ending their association with a business. For
 - **Python Libraries**:  
   - Data Analysis: `pandas`, `numpy`  
   - Visualization: `matplotlib`, `seaborn`  
-  - Machine Learning: `scikit-learn`, `xgboost`  
-  - Hyperparameter Tuning: `GridSearchCV`  
+  - Machine Learning: `scikit-learn`
 
 ---
 
